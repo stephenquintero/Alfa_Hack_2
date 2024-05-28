@@ -6,7 +6,7 @@
 - [ ] Echo = Manuel
 
 # Seleccione el tipo de actividad
-- [] Feature
+- [ ] Feature
 - [x] Hotfix
 - [ ] Refactor
 - [ ] Performance
